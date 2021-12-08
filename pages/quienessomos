@@ -18,8 +18,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="index.html">inicio</a>
-        <a class="nav-link" href="pages/quienessomos">quienes somos</a>
+        <a class="nav-link" href="../index.html">inicio</a>
+        <a class="nav-link active" aria-current="page" href="../pages/quienessomos">quienes somos</a>
         <a class="nav-link" href="#">productos</a>
         <a class="nav-link" href="#">servicios</a>
         <a class="nav-link" href="#">contacto</a>
